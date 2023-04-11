@@ -1,0 +1,15 @@
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.deps.json
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.runtimeconfig.json
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.dll
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/bin/Debug/net6.0/OperatorExercise.pdb
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.AssemblyReference.cache
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfoInputs.cache
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.AssemblyInfo.cs
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.csproj.CoreCompileInputs.cache
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.dll
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/refint/OperatorExercise.dll
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.pdb
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/OperatorExercise.genruntimeconfig.cache
+/Users/michaelberg/Desktop/Repos/Operators-Exercise/OperatorExercise/obj/Debug/net6.0/ref/OperatorExercise.dll
